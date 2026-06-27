@@ -81,3 +81,12 @@ git clone https://gitee.com/GBGBGBD/lelong-models.git
 > [!quote] 项目宗旨
 > 建立一套规范化、模块化、可复用的物流仿真模型库，通过清晰的项目地图导航和详细的模型解析，降低仿真学习门槛，提高模型复用效率，支持多平台协作和知识共享。
 
+---
+
+## 📦 项目地址
+
+| 平台 | 地址 |
+| :--- | :--- |
+| GitHub | https://github.com/GBGBGBD/lelong-models |
+| Gitee | https://gitee.com/GBGBGBD/lelong-models |
+
